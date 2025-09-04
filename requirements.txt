@@ -1,0 +1,7 @@
+fastapiuvicorn[standard]
+torch
+transformers
+datasets
+bitsandbytes
+accelerate
+scikit-learn
